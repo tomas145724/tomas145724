@@ -10,6 +10,7 @@
     <br><br>
     Buscando conhecimento em Power BI para utilizar junto com Python :v:
   </samp>
+  
 </p>
 
 <br>
@@ -17,11 +18,13 @@
 
   
   <br>
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomas145724&show_icons=true&theme=compact&hide_border=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas145724&layout=compact&hide_border=true)
-
+ 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomaz-lima-b5827b16b/)
 
 
 
