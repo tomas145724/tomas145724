@@ -25,7 +25,7 @@
                                   
 </div>
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="tomas-CSS" height="100" src="https://i.ibb.co/PxM9cTN/octocat-1677089838594.png" />
+<img align="center" alt="tomas-CSS" height="200" src="https://i.ibb.co/PxM9cTN/octocat-1677089838594.png" />
 </div>
 <br><br>
 <div align="center">
