@@ -25,7 +25,7 @@
                                   
 </div>
 <div style="display: inline_block" align="center"><br>
-   <img align="center" alt="tomas-CSS" height="30" src="https://imageup.me/qj5" />
+   <img align="center" alt="tomas-CSS" height="30" src="[https://imageup.me/qj5](https://ibb.co/5TknrY6)" />
 </div>
 <br><br>
 <div align="center">
