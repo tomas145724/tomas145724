@@ -4,7 +4,7 @@
   <samp>
     Eu sou o Thomaz:wave:
     <br><br>
-    Analistado de dados e Backend
+    Analista de dados e Backend
     <br><br>
     Buscando aprimorar meu conhecimentos em dados, machine Learning e IA
     <br><br>
