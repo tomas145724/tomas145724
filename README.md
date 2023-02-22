@@ -4,11 +4,11 @@
   <samp>
     Eu sou o Thomaz:wave:
     <br><br>
-    Estudante de Analise e desenvolvimento de sistemas.
+    Analistado de dados e Backend
     <br><br>
-    Buscando conhecimento em Java e JavaScript :v:
+    Buscando aprimorar meu conhecimentos em dados, machine Learning e IA
     <br><br>
-    Em busca de uma vaga de Dev ou estagio.
+    Em busca de uma vaga de Analista de dados ou DBA
   </samp>
   
 </p>
