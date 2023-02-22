@@ -24,6 +24,9 @@
   <img align="center" alt="tomas-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
                                   
 </div>
+<div>
+<img align="center" alt="tomas-CSS" height="30" src="https://i.ibb.co/PxM9cTN/octocat-1677089838594.png" />
+</div>
 <br><br>
 <div align="center">
   <a href="https://github.com/tomas145724">
