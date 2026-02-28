@@ -4,11 +4,11 @@
   <samp>
     Eu sou o Thomaz
     <br><br>
-    Analista de dados e Desenvolvedor.
+    Analista de dados .
     <br><br>
     Buscando aprimorar meu conhecimentos em dados, machine Learning e IA
     <br><br>
-    Em busca de uma vaga de Analista de dados ou DBA
+     
   </samp>
   
 </p>
