@@ -24,15 +24,9 @@
   <img align="center" alt="tomas-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
                                   
 </div>
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="tomas-CSS" height="200" src="https://i.ibb.co/PxM9cTN/octocat-1677089838594.png" />
-</div>
+ 
 <br><br>
-<div align="center">
-  <a href="https://github.com/tomas145724">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomas145724&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas145724&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
   
  ##
  
